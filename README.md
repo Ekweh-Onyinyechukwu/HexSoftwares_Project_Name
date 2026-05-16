@@ -1,6 +1,6 @@
 # UrbanHive – Fashion Analytics Dashboard
 
-![](HEX-DASHBOARD TASK 2.png)
+![](HEX-DASHBOARDTASK2.png)
 
 ## Overview
 UrbanHive is a modern fashion business analytics dashboard designed to help fashion brands track sales performance, monitor inventory, understand customer behavior, and make smarter business decisions through data visualization.
